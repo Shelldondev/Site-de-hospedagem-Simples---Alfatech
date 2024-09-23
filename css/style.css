@@ -1,0 +1,172 @@
+* {
+    font-family: "Poppins", system-ui;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header img {
+    width: 119px;
+}
+header {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 15px 22px;
+    background-color: #ffffff;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    align-items: center;
+    
+}
+header a {
+    margin-left: 70px;
+    text-decoration: none;
+    color: #2F86D6;
+    font-size: 1.7vh;
+}
+.sobre {
+    background-color: #2F86D6;
+    padding: 16vh 30vh;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.sobre  p {
+    align-items: center;
+    display: none;
+}
+.sobre h3 {
+    font-size: 36px;
+}
+.sobre img {
+    width: 45vh;
+    height: 60v;
+    justify-content: center;
+}
+
+.sobre div {
+    font-size: 2.2vh;
+}
+
+.tabela-preco-1 {
+    display: flex;
+    padding: 3vh 5vh;
+    background-color: #23303E;
+    color: #ffffff;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: center;
+}
+.tabela-preco-1 a {
+    background-color: #2F86D6;
+color: #ffffff;
+    text-decoration: none;
+    padding: 17px;
+    border-radius: 1;
+}
+.what {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10vh 0;
+}
+.what h3, p {
+    font-weight: bolder;
+    font-size: 5vh;
+}
+.bottons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10vh;
+    color: #2F86D6;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.bottons a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #2F86D6;
+    padding: 15px 25px;
+    border-radius: 5vh;
+}
+.span p {
+    color: #2F86D6;
+    align-items: center;
+    text-align: center;
+    font-size: 2vh;
+}
+.what h3 {
+    color: #2F86D6;
+    margin-bottom: 4vh;
+}
+.ze {
+    color: darkgrey;
+    font-weight: 300;
+
+}
+.tabela-preco-2 {
+    margin-top: 3vh;
+    display: flex;
+    padding: 3vh 5vh;
+    background-color: #2F86D6;
+    color: #ffffff;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: center;
+}
+.tabela-preco-2 a {
+    background-color: #23303E;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 17px;
+    border-radius: 1;
+}
+.rodape {
+    text-align: center;
+    align-items: center;
+    background-color: #23303E;
+
+}
+.rodape img {
+    height: 4vh;
+}
+.logo-555 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    padding-top: 3vh;
+    color: #ffffff;
+}
+.contato, p {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column ;
+    font-size: 13px;
+    padding-top: 1vh;
+    color: #ffffff;
+    align-items: center;
+
+}
+.name span {
+    color: #2F86D6;
+}
+.beba {
+
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+.nome {
+    display: flex;
+}
+.po {
+    display: flex;
+}
